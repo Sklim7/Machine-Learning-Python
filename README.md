@@ -18,7 +18,7 @@ It includes both **live trading functionality** (via MetaTrader5 API) and a **co
   - CSV export of backtest trades/results
 
 - ⚡ **Live Trading (`main.py`)**
-  - Runs on **MetaTrader5** with configurable symbol (default: `US100-SEP25`)
+  - Runs on **MetaTrader5** with configurable symbol (default: `US100Cash`)
   - Predicts next-day market direction at end-of-day
   - Confidence-threshold filtering
   - Retrains model automatically (e.g., every 30 days)
