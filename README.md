@@ -131,5 +131,5 @@ This project is licensed under the MIT License.
 
 ---
 
-👨‍💻 Developed by [Your Name]  
-📬 For inquiries: your.email@example.com
+👨‍💻 Developed by [Seungkwon Lim]  
+📬 For inquiries: classkwon@gmail.com
